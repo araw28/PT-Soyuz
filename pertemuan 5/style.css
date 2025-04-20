@@ -1,0 +1,40 @@
+h1{
+    color:rgb(234, 123, 204);
+    font-size: 30px; 
+}
+
+p {
+    color:blue;
+    font-size: 30px;
+}
+.p1{
+    color:brown;
+    font-size: 30px;
+}
+
+.bg-teal{
+    background-color: teal;
+}
+
+#p2{
+    color:hotpink;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+input[type=text]{
+    background-color: tomato;
+}
+
+*{
+    border: 3px solid black;
+}
+
+button:hover{
+    background-color: antiquewhite;
+}
+
+h2::first-letter {
+    color: indigo;
+    font-size: 50px;
+}
